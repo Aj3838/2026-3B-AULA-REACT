@@ -1,10 +1,8 @@
 function Home(){
     return(
         <div>
-            <h1>Programação web III</h1>
-            <p>Local: LAB</p>
+            <h1>Programação WEB III</h1>
+            <p>Local: Lab</p>
         </div>
     )
 }
-
-export default Home

@@ -1,8 +1,8 @@
 function Sobre(){
     return(
         <div>
-            <h1>Sobre Nós</h1>
-            <p>Have the same essense lk me...</p>
+            <h1>Sobre</h1>
+            <p>Aula da profª Alicia</p>
         </div>
     )
 }

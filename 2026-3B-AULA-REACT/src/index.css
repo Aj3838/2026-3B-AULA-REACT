@@ -1,6 +1,6 @@
 :root {
-  --text: #ffffff;
-  --text-h: #ffffff;
+  --text: #6b6375;
+  --text-h: #08060d;
   --bg: #fff;
   --border: #e5e4e7;
   --code-bg: #f4f3ec;
@@ -52,7 +52,7 @@
 
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-color: #f077d6;
 }
 
 #root {
